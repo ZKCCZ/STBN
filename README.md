@@ -6,13 +6,13 @@ This repository contains the official implementation of our paper "[Spatiotempor
   <table>
     <tr>
       <td align="center">
-        <img src="imgs/noisy_video_down2.gif" alt="Noisy 1" width="300px">
-        <img src="imgs/noisy_video_down2_touchdown.gif" alt="Noisy 2" width="300px">
+        <img src="imgs/noisy_video_down2_touchdown.gif" alt="Noisy 1" width="300px">
+        <img src="imgs/noisy_video_down2.gif" alt="Noisy 2" width="300px">
         <p>Noisy (σ=30)</p>
       </td>
       <td align="center">
-        <img src="imgs/denoised_video_down2.gif" alt="Denoised 1" width="300px">
-        <img src="imgs/denoised_video_down2_touchdown.gif" alt="Denoised 2" width="300px">
+        <img src="imgs/denoised_video_down2_touchdown.gif" alt="Denoised 1" width="300px">
+        <img src="imgs/denoised_video_down2.gif" alt="Denoised 2" width="300px">
         <p>Denoised</p>
       </td>
     </tr>
