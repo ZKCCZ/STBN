@@ -55,9 +55,7 @@ Arguments:
   --valset_dir VALIDATIONSET_DIRECTORY   Directory of the validation dataset (e.g., '/data/Set8').
 ```
 
-```
-You can use main.sh for convenience.
-```
+You can use `main.sh` for convenience.
 
 ---
 
@@ -71,13 +69,10 @@ Arguments:
   --noise_sigmas NOISE_SIGMAS      Noise level for testing (e.g., 30).
   --model_file MODEL_FILE_PATH     Path to the pretrained model (e.g., '../logs/pretrained.pth').
   --test_path TEST_DATASET_PATH    Path to the testing dataset (e.g., 'datasets/Set8').
-
-You can use test.sh for convenience.
 ```
 
-```
-You can use test.sh for convenience.
-```
+You can use `test.sh` for convenience.  
+[Here](https://drive.google.com/drive/folders/14VZBqIXLJnzDc-sWNDUg4aKoKxnSINUe?usp=drive_link) are our pre-trained weights.
 
 ---
 
