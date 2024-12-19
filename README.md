@@ -2,6 +2,19 @@
 
 This repository contains the official implementation of our paper "[Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising](https://arxiv.org/abs/2412.11820)".
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: center;">
+    <img src="imgs/noisy_video_down2.gif" alt="GIF 1" style="width: 99%; margin-right: 0px;">
+    <img src="imgs/noisy_video_down2_touchdown.gif" alt="GIF 1" style="width: 99%; margin-right: 0px;">
+    <p>Noisy(σ=30)</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="imgs/denoised_video_down2.gif" alt="GIF 2" style="width: 99%;">
+    <img src="imgs/denoised_video_down2_touchdown.gif" alt="GIF 1" style="width: 99%; margin-right: 0px;">
+    <p>Denoised</p>
+  </div>
+</div>
+
 ---
 
 ## Abstract
