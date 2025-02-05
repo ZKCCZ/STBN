@@ -90,7 +90,7 @@ Arguments:
 ```
 
 You can use `test.sh` for convenience.  
-[Here](https://drive.google.com/drive/folders/14VZBqIXLJnzDc-sWNDUg4aKoKxnSINUe?usp=drive_link) are our pre-trained weights.
+[Here](https://drive.google.com/file/d/1-BohoNxvqclkz-8ZphxQKCJnuMhwfEQp/view?usp=sharing) are our pre-trained weights.
 
 ---
 
