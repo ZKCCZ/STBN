@@ -1,5 +1,5 @@
 # Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising
-[![arXiv](https://img.shields.io/badge/arXiv-1234.5678-b31b1b.svg)](https://arxiv.org/abs/1234.5678)
+[![arXiv](https://img.shields.io/badge/arXiv-1234.5678-b31b1b.svg)](https://arxiv.org/abs/2412.11820)
 [![License](https://img.shields.io/github/license/ZKCCZ/STBN)](https://github.com/ZKCCZ/STBN/blob/main/LICENSE)
 
 This repository contains the official implementation of our paper "[Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising](https://arxiv.org/abs/2412.11820)".
